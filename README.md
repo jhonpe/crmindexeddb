@@ -6,4 +6,4 @@
 
 Administra tus Clientes con el CRM - IndexedDB
 
--[Veterinaria ](https://jhonpe.github.io/administrar-citas)
+-[CRM - IndexedDB ](https://jhonpe.github.io/crmindexeddb)
